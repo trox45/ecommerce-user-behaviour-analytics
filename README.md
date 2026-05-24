@@ -62,4 +62,4 @@ The dashboard contains 3 pages:
 | `daily_revenue.png` | Daily revenue chart |
 
 ## Author
-Twisha Salunke — Data Analyst
+Twisha Salunke 
